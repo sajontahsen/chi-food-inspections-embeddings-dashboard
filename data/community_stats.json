@@ -1,0 +1,772 @@
+[
+  {
+    "area_num": -1.0,
+    "community_name": "Unknown",
+    "total_inspections": 5,
+    "critical_inspections": 0.0,
+    "pass_count": 3.0,
+    "fail_count": 0.0,
+    "critical_rate": 0.0,
+    "pass_rate": 60.0
+  },
+  {
+    "area_num": 1.0,
+    "community_name": "ROGERS PARK",
+    "total_inspections": 117,
+    "critical_inspections": 28.0,
+    "pass_count": 66.0,
+    "fail_count": 28.0,
+    "critical_rate": 23.93,
+    "pass_rate": 56.41
+  },
+  {
+    "area_num": 2.0,
+    "community_name": "WEST RIDGE",
+    "total_inspections": 191,
+    "critical_inspections": 59.0,
+    "pass_count": 91.0,
+    "fail_count": 59.0,
+    "critical_rate": 30.89,
+    "pass_rate": 47.64
+  },
+  {
+    "area_num": 3.0,
+    "community_name": "UPTOWN",
+    "total_inspections": 186,
+    "critical_inspections": 42.0,
+    "pass_count": 116.0,
+    "fail_count": 42.0,
+    "critical_rate": 22.58,
+    "pass_rate": 62.37
+  },
+  {
+    "area_num": 4.0,
+    "community_name": "LINCOLN SQUARE",
+    "total_inspections": 162,
+    "critical_inspections": 42.0,
+    "pass_count": 88.0,
+    "fail_count": 42.0,
+    "critical_rate": 25.93,
+    "pass_rate": 54.32
+  },
+  {
+    "area_num": 5.0,
+    "community_name": "NORTH CENTER",
+    "total_inspections": 107,
+    "critical_inspections": 18.0,
+    "pass_count": 61.0,
+    "fail_count": 18.0,
+    "critical_rate": 16.82,
+    "pass_rate": 57.01
+  },
+  {
+    "area_num": 6.0,
+    "community_name": "LAKE VIEW",
+    "total_inspections": 403,
+    "critical_inspections": 96.0,
+    "pass_count": 246.0,
+    "fail_count": 96.0,
+    "critical_rate": 23.82,
+    "pass_rate": 61.04
+  },
+  {
+    "area_num": 7.0,
+    "community_name": "LINCOLN PARK",
+    "total_inspections": 351,
+    "critical_inspections": 92.0,
+    "pass_count": 180.0,
+    "fail_count": 92.0,
+    "critical_rate": 26.21,
+    "pass_rate": 51.28
+  },
+  {
+    "area_num": 8.0,
+    "community_name": "NEAR NORTH SIDE",
+    "total_inspections": 789,
+    "critical_inspections": 198.0,
+    "pass_count": 381.0,
+    "fail_count": 198.0,
+    "critical_rate": 25.1,
+    "pass_rate": 48.29
+  },
+  {
+    "area_num": 9.0,
+    "community_name": "EDISON PARK",
+    "total_inspections": 20,
+    "critical_inspections": 6.0,
+    "pass_count": 13.0,
+    "fail_count": 6.0,
+    "critical_rate": 30.0,
+    "pass_rate": 65.0
+  },
+  {
+    "area_num": 10.0,
+    "community_name": "NORWOOD PARK",
+    "total_inspections": 28,
+    "critical_inspections": 6.0,
+    "pass_count": 16.0,
+    "fail_count": 6.0,
+    "critical_rate": 21.43,
+    "pass_rate": 57.14
+  },
+  {
+    "area_num": 11.0,
+    "community_name": "JEFFERSON PARK",
+    "total_inspections": 34,
+    "critical_inspections": 7.0,
+    "pass_count": 21.0,
+    "fail_count": 7.0,
+    "critical_rate": 20.59,
+    "pass_rate": 61.76
+  },
+  {
+    "area_num": 12.0,
+    "community_name": "FOREST GLEN",
+    "total_inspections": 18,
+    "critical_inspections": 5.0,
+    "pass_count": 9.0,
+    "fail_count": 5.0,
+    "critical_rate": 27.78,
+    "pass_rate": 50.0
+  },
+  {
+    "area_num": 13.0,
+    "community_name": "NORTH PARK",
+    "total_inspections": 50,
+    "critical_inspections": 18.0,
+    "pass_count": 21.0,
+    "fail_count": 18.0,
+    "critical_rate": 36.0,
+    "pass_rate": 42.0
+  },
+  {
+    "area_num": 14.0,
+    "community_name": "ALBANY PARK",
+    "total_inspections": 153,
+    "critical_inspections": 55.0,
+    "pass_count": 67.0,
+    "fail_count": 55.0,
+    "critical_rate": 35.95,
+    "pass_rate": 43.79
+  },
+  {
+    "area_num": 15.0,
+    "community_name": "PORTAGE PARK",
+    "total_inspections": 133,
+    "critical_inspections": 20.0,
+    "pass_count": 90.0,
+    "fail_count": 20.0,
+    "critical_rate": 15.04,
+    "pass_rate": 67.67
+  },
+  {
+    "area_num": 16.0,
+    "community_name": "IRVING PARK",
+    "total_inspections": 96,
+    "critical_inspections": 18.0,
+    "pass_count": 59.0,
+    "fail_count": 18.0,
+    "critical_rate": 18.75,
+    "pass_rate": 61.46
+  },
+  {
+    "area_num": 17.0,
+    "community_name": "DUNNING",
+    "total_inspections": 76,
+    "critical_inspections": 12.0,
+    "pass_count": 42.0,
+    "fail_count": 12.0,
+    "critical_rate": 15.79,
+    "pass_rate": 55.26
+  },
+  {
+    "area_num": 18.0,
+    "community_name": "MONTCLARE",
+    "total_inspections": 21,
+    "critical_inspections": 4.0,
+    "pass_count": 10.0,
+    "fail_count": 4.0,
+    "critical_rate": 19.05,
+    "pass_rate": 47.62
+  },
+  {
+    "area_num": 19.0,
+    "community_name": "BELMONT CRAGIN",
+    "total_inspections": 203,
+    "critical_inspections": 63.0,
+    "pass_count": 92.0,
+    "fail_count": 63.0,
+    "critical_rate": 31.03,
+    "pass_rate": 45.32
+  },
+  {
+    "area_num": 20.0,
+    "community_name": "HERMOSA",
+    "total_inspections": 33,
+    "critical_inspections": 8.0,
+    "pass_count": 13.0,
+    "fail_count": 8.0,
+    "critical_rate": 24.24,
+    "pass_rate": 39.39
+  },
+  {
+    "area_num": 21.0,
+    "community_name": "AVONDALE",
+    "total_inspections": 83,
+    "critical_inspections": 16.0,
+    "pass_count": 43.0,
+    "fail_count": 16.0,
+    "critical_rate": 19.28,
+    "pass_rate": 51.81
+  },
+  {
+    "area_num": 22.0,
+    "community_name": "LOGAN SQUARE",
+    "total_inspections": 196,
+    "critical_inspections": 34.0,
+    "pass_count": 119.0,
+    "fail_count": 34.0,
+    "critical_rate": 17.35,
+    "pass_rate": 60.71
+  },
+  {
+    "area_num": 23.0,
+    "community_name": "HUMBOLDT PARK",
+    "total_inspections": 112,
+    "critical_inspections": 32.0,
+    "pass_count": 47.0,
+    "fail_count": 32.0,
+    "critical_rate": 28.57,
+    "pass_rate": 41.96
+  },
+  {
+    "area_num": 24.0,
+    "community_name": "WEST TOWN",
+    "total_inspections": 354,
+    "critical_inspections": 118.0,
+    "pass_count": 150.0,
+    "fail_count": 118.0,
+    "critical_rate": 33.33,
+    "pass_rate": 42.37
+  },
+  {
+    "area_num": 25.0,
+    "community_name": "AUSTIN",
+    "total_inspections": 192,
+    "critical_inspections": 69.0,
+    "pass_count": 87.0,
+    "fail_count": 69.0,
+    "critical_rate": 35.94,
+    "pass_rate": 45.31
+  },
+  {
+    "area_num": 26.0,
+    "community_name": "WEST GARFIELD PARK",
+    "total_inspections": 32,
+    "critical_inspections": 13.0,
+    "pass_count": 16.0,
+    "fail_count": 13.0,
+    "critical_rate": 40.62,
+    "pass_rate": 50.0
+  },
+  {
+    "area_num": 27.0,
+    "community_name": "EAST GARFIELD PARK",
+    "total_inspections": 45,
+    "critical_inspections": 17.0,
+    "pass_count": 19.0,
+    "fail_count": 17.0,
+    "critical_rate": 37.78,
+    "pass_rate": 42.22
+  },
+  {
+    "area_num": 28.0,
+    "community_name": "NEAR WEST SIDE",
+    "total_inspections": 374,
+    "critical_inspections": 90.0,
+    "pass_count": 197.0,
+    "fail_count": 90.0,
+    "critical_rate": 24.06,
+    "pass_rate": 52.67
+  },
+  {
+    "area_num": 29.0,
+    "community_name": "NORTH LAWNDALE",
+    "total_inspections": 88,
+    "critical_inspections": 31.0,
+    "pass_count": 45.0,
+    "fail_count": 31.0,
+    "critical_rate": 35.23,
+    "pass_rate": 51.14
+  },
+  {
+    "area_num": 30.0,
+    "community_name": "SOUTH LAWNDALE",
+    "total_inspections": 127,
+    "critical_inspections": 33.0,
+    "pass_count": 67.0,
+    "fail_count": 33.0,
+    "critical_rate": 25.98,
+    "pass_rate": 52.76
+  },
+  {
+    "area_num": 31.0,
+    "community_name": "LOWER WEST SIDE",
+    "total_inspections": 169,
+    "critical_inspections": 54.0,
+    "pass_count": 81.0,
+    "fail_count": 54.0,
+    "critical_rate": 31.95,
+    "pass_rate": 47.93
+  },
+  {
+    "area_num": 32.0,
+    "community_name": "LOOP",
+    "total_inspections": 377,
+    "critical_inspections": 40.0,
+    "pass_count": 251.0,
+    "fail_count": 40.0,
+    "critical_rate": 10.61,
+    "pass_rate": 66.58
+  },
+  {
+    "area_num": 33.0,
+    "community_name": "NEAR SOUTH SIDE",
+    "total_inspections": 93,
+    "critical_inspections": 19.0,
+    "pass_count": 52.0,
+    "fail_count": 19.0,
+    "critical_rate": 20.43,
+    "pass_rate": 55.91
+  },
+  {
+    "area_num": 34.0,
+    "community_name": "ARMOUR SQUARE",
+    "total_inspections": 222,
+    "critical_inspections": 84.0,
+    "pass_count": 101.0,
+    "fail_count": 84.0,
+    "critical_rate": 37.84,
+    "pass_rate": 45.5
+  },
+  {
+    "area_num": 35.0,
+    "community_name": "DOUGLAS",
+    "total_inspections": 47,
+    "critical_inspections": 8.0,
+    "pass_count": 27.0,
+    "fail_count": 8.0,
+    "critical_rate": 17.02,
+    "pass_rate": 57.45
+  },
+  {
+    "area_num": 37.0,
+    "community_name": "FULLER PARK",
+    "total_inspections": 16,
+    "critical_inspections": 7.0,
+    "pass_count": 7.0,
+    "fail_count": 7.0,
+    "critical_rate": 43.75,
+    "pass_rate": 43.75
+  },
+  {
+    "area_num": 38.0,
+    "community_name": "GRAND BOULEVARD",
+    "total_inspections": 44,
+    "critical_inspections": 7.0,
+    "pass_count": 32.0,
+    "fail_count": 7.0,
+    "critical_rate": 15.91,
+    "pass_rate": 72.73
+  },
+  {
+    "area_num": 39.0,
+    "community_name": "KENWOOD",
+    "total_inspections": 19,
+    "critical_inspections": 5.0,
+    "pass_count": 13.0,
+    "fail_count": 5.0,
+    "critical_rate": 26.32,
+    "pass_rate": 68.42
+  },
+  {
+    "area_num": 40.0,
+    "community_name": "WASHINGTON PARK",
+    "total_inspections": 29,
+    "critical_inspections": 11.0,
+    "pass_count": 15.0,
+    "fail_count": 11.0,
+    "critical_rate": 37.93,
+    "pass_rate": 51.72
+  },
+  {
+    "area_num": 41.0,
+    "community_name": "HYDE PARK",
+    "total_inspections": 86,
+    "critical_inspections": 12.0,
+    "pass_count": 61.0,
+    "fail_count": 12.0,
+    "critical_rate": 13.95,
+    "pass_rate": 70.93
+  },
+  {
+    "area_num": 42.0,
+    "community_name": "WOODLAWN",
+    "total_inspections": 42,
+    "critical_inspections": 4.0,
+    "pass_count": 33.0,
+    "fail_count": 4.0,
+    "critical_rate": 9.52,
+    "pass_rate": 78.57
+  },
+  {
+    "area_num": 43.0,
+    "community_name": "SOUTH SHORE",
+    "total_inspections": 72,
+    "critical_inspections": 12.0,
+    "pass_count": 47.0,
+    "fail_count": 12.0,
+    "critical_rate": 16.67,
+    "pass_rate": 65.28
+  },
+  {
+    "area_num": 44.0,
+    "community_name": "CHATHAM",
+    "total_inspections": 103,
+    "critical_inspections": 29.0,
+    "pass_count": 62.0,
+    "fail_count": 29.0,
+    "critical_rate": 28.16,
+    "pass_rate": 60.19
+  },
+  {
+    "area_num": 45.0,
+    "community_name": "AVALON PARK",
+    "total_inspections": 22,
+    "critical_inspections": 8.0,
+    "pass_count": 10.0,
+    "fail_count": 8.0,
+    "critical_rate": 36.36,
+    "pass_rate": 45.45
+  },
+  {
+    "area_num": 46.0,
+    "community_name": "SOUTH CHICAGO",
+    "total_inspections": 53,
+    "critical_inspections": 19.0,
+    "pass_count": 26.0,
+    "fail_count": 19.0,
+    "critical_rate": 35.85,
+    "pass_rate": 49.06
+  },
+  {
+    "area_num": 47.0,
+    "community_name": "BURNSIDE",
+    "total_inspections": 1,
+    "critical_inspections": 0.0,
+    "pass_count": 1.0,
+    "fail_count": 0.0,
+    "critical_rate": 0.0,
+    "pass_rate": 100.0
+  },
+  {
+    "area_num": 48.0,
+    "community_name": "CALUMET HEIGHTS",
+    "total_inspections": 17,
+    "critical_inspections": 3.0,
+    "pass_count": 10.0,
+    "fail_count": 3.0,
+    "critical_rate": 17.65,
+    "pass_rate": 58.82
+  },
+  {
+    "area_num": 49.0,
+    "community_name": "ROSELAND",
+    "total_inspections": 85,
+    "critical_inspections": 21.0,
+    "pass_count": 49.0,
+    "fail_count": 21.0,
+    "critical_rate": 24.71,
+    "pass_rate": 57.65
+  },
+  {
+    "area_num": 50.0,
+    "community_name": "PULLMAN",
+    "total_inspections": 27,
+    "critical_inspections": 8.0,
+    "pass_count": 17.0,
+    "fail_count": 8.0,
+    "critical_rate": 29.63,
+    "pass_rate": 62.96
+  },
+  {
+    "area_num": 51.0,
+    "community_name": "SOUTH DEERING",
+    "total_inspections": 11,
+    "critical_inspections": 1.0,
+    "pass_count": 10.0,
+    "fail_count": 1.0,
+    "critical_rate": 9.09,
+    "pass_rate": 90.91
+  },
+  {
+    "area_num": 52.0,
+    "community_name": "EAST SIDE",
+    "total_inspections": 13,
+    "critical_inspections": 4.0,
+    "pass_count": 9.0,
+    "fail_count": 4.0,
+    "critical_rate": 30.77,
+    "pass_rate": 69.23
+  },
+  {
+    "area_num": 53.0,
+    "community_name": "WEST PULLMAN",
+    "total_inspections": 44,
+    "critical_inspections": 11.0,
+    "pass_count": 24.0,
+    "fail_count": 11.0,
+    "critical_rate": 25.0,
+    "pass_rate": 54.55
+  },
+  {
+    "area_num": 54.0,
+    "community_name": "RIVERDALE",
+    "total_inspections": 8,
+    "critical_inspections": 2.0,
+    "pass_count": 4.0,
+    "fail_count": 2.0,
+    "critical_rate": 25.0,
+    "pass_rate": 50.0
+  },
+  {
+    "area_num": 55.0,
+    "community_name": "HEGEWISCH",
+    "total_inspections": 35,
+    "critical_inspections": 10.0,
+    "pass_count": 21.0,
+    "fail_count": 10.0,
+    "critical_rate": 28.57,
+    "pass_rate": 60.0
+  },
+  {
+    "area_num": 56.0,
+    "community_name": "GARFIELD RIDGE",
+    "total_inspections": 68,
+    "critical_inspections": 21.0,
+    "pass_count": 42.0,
+    "fail_count": 21.0,
+    "critical_rate": 30.88,
+    "pass_rate": 61.76
+  },
+  {
+    "area_num": 57.0,
+    "community_name": "ARCHER HEIGHTS",
+    "total_inspections": 41,
+    "critical_inspections": 12.0,
+    "pass_count": 24.0,
+    "fail_count": 12.0,
+    "critical_rate": 29.27,
+    "pass_rate": 58.54
+  },
+  {
+    "area_num": 58.0,
+    "community_name": "BRIGHTON PARK",
+    "total_inspections": 90,
+    "critical_inspections": 22.0,
+    "pass_count": 59.0,
+    "fail_count": 22.0,
+    "critical_rate": 24.44,
+    "pass_rate": 65.56
+  },
+  {
+    "area_num": 59.0,
+    "community_name": "MCKINLEY PARK",
+    "total_inspections": 20,
+    "critical_inspections": 2.0,
+    "pass_count": 12.0,
+    "fail_count": 2.0,
+    "critical_rate": 10.0,
+    "pass_rate": 60.0
+  },
+  {
+    "area_num": 60.0,
+    "community_name": "BRIDGEPORT",
+    "total_inspections": 69,
+    "critical_inspections": 21.0,
+    "pass_count": 36.0,
+    "fail_count": 21.0,
+    "critical_rate": 30.43,
+    "pass_rate": 52.17
+  },
+  {
+    "area_num": 61.0,
+    "community_name": "NEW CITY",
+    "total_inspections": 70,
+    "critical_inspections": 21.0,
+    "pass_count": 35.0,
+    "fail_count": 21.0,
+    "critical_rate": 30.0,
+    "pass_rate": 50.0
+  },
+  {
+    "area_num": 62.0,
+    "community_name": "WEST ELSDON",
+    "total_inspections": 36,
+    "critical_inspections": 7.0,
+    "pass_count": 24.0,
+    "fail_count": 7.0,
+    "critical_rate": 19.44,
+    "pass_rate": 66.67
+  },
+  {
+    "area_num": 63.0,
+    "community_name": "GAGE PARK",
+    "total_inspections": 75,
+    "critical_inspections": 18.0,
+    "pass_count": 44.0,
+    "fail_count": 18.0,
+    "critical_rate": 24.0,
+    "pass_rate": 58.67
+  },
+  {
+    "area_num": 64.0,
+    "community_name": "CLEARING",
+    "total_inspections": 29,
+    "critical_inspections": 6.0,
+    "pass_count": 20.0,
+    "fail_count": 6.0,
+    "critical_rate": 20.69,
+    "pass_rate": 68.97
+  },
+  {
+    "area_num": 65.0,
+    "community_name": "WEST LAWN",
+    "total_inspections": 71,
+    "critical_inspections": 17.0,
+    "pass_count": 34.0,
+    "fail_count": 17.0,
+    "critical_rate": 23.94,
+    "pass_rate": 47.89
+  },
+  {
+    "area_num": 66.0,
+    "community_name": "CHICAGO LAWN",
+    "total_inspections": 96,
+    "critical_inspections": 24.0,
+    "pass_count": 51.0,
+    "fail_count": 24.0,
+    "critical_rate": 25.0,
+    "pass_rate": 53.12
+  },
+  {
+    "area_num": 67.0,
+    "community_name": "WEST ENGLEWOOD",
+    "total_inspections": 95,
+    "critical_inspections": 40.0,
+    "pass_count": 42.0,
+    "fail_count": 40.0,
+    "critical_rate": 42.11,
+    "pass_rate": 44.21
+  },
+  {
+    "area_num": 68.0,
+    "community_name": "ENGLEWOOD",
+    "total_inspections": 45,
+    "critical_inspections": 10.0,
+    "pass_count": 29.0,
+    "fail_count": 10.0,
+    "critical_rate": 22.22,
+    "pass_rate": 64.44
+  },
+  {
+    "area_num": 69.0,
+    "community_name": "GREATER GRAND CROSSING",
+    "total_inspections": 82,
+    "critical_inspections": 9.0,
+    "pass_count": 69.0,
+    "fail_count": 9.0,
+    "critical_rate": 10.98,
+    "pass_rate": 84.15
+  },
+  {
+    "area_num": 70.0,
+    "community_name": "ASHBURN",
+    "total_inspections": 75,
+    "critical_inspections": 26.0,
+    "pass_count": 41.0,
+    "fail_count": 26.0,
+    "critical_rate": 34.67,
+    "pass_rate": 54.67
+  },
+  {
+    "area_num": 71.0,
+    "community_name": "AUBURN GRESHAM",
+    "total_inspections": 122,
+    "critical_inspections": 45.0,
+    "pass_count": 49.0,
+    "fail_count": 45.0,
+    "critical_rate": 36.89,
+    "pass_rate": 40.16
+  },
+  {
+    "area_num": 72.0,
+    "community_name": "BEVERLY",
+    "total_inspections": 57,
+    "critical_inspections": 6.0,
+    "pass_count": 46.0,
+    "fail_count": 6.0,
+    "critical_rate": 10.53,
+    "pass_rate": 80.7
+  },
+  {
+    "area_num": 73.0,
+    "community_name": "WASHINGTON HEIGHTS",
+    "total_inspections": 63,
+    "critical_inspections": 18.0,
+    "pass_count": 40.0,
+    "fail_count": 18.0,
+    "critical_rate": 28.57,
+    "pass_rate": 63.49
+  },
+  {
+    "area_num": 74.0,
+    "community_name": "MOUNT GREENWOOD",
+    "total_inspections": 41,
+    "critical_inspections": 8.0,
+    "pass_count": 33.0,
+    "fail_count": 8.0,
+    "critical_rate": 19.51,
+    "pass_rate": 80.49
+  },
+  {
+    "area_num": 75.0,
+    "community_name": "MORGAN PARK",
+    "total_inspections": 61,
+    "critical_inspections": 17.0,
+    "pass_count": 44.0,
+    "fail_count": 17.0,
+    "critical_rate": 27.87,
+    "pass_rate": 72.13
+  },
+  {
+    "area_num": 76.0,
+    "community_name": "OHARE",
+    "total_inspections": 170,
+    "critical_inspections": 13.0,
+    "pass_count": 93.0,
+    "fail_count": 13.0,
+    "critical_rate": 7.65,
+    "pass_rate": 54.71
+  },
+  {
+    "area_num": 77.0,
+    "community_name": "EDGEWATER",
+    "total_inspections": 184,
+    "critical_inspections": 65.0,
+    "pass_count": 95.0,
+    "fail_count": 65.0,
+    "critical_rate": 35.33,
+    "pass_rate": 51.63
+  }
+]

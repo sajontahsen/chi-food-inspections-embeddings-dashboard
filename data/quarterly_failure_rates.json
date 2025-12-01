@@ -1,0 +1,170 @@
+[
+  {
+    "Year-Quarter": "2020-Q1",
+    "Facility_Type": "School",
+    "Failures": 143,
+    "Total": 455,
+    "Failure_Rate": 31.43
+  },
+  {
+    "Year-Quarter": "2020-Q2",
+    "Facility_Type": "Grocery Store",
+    "Failures": 316,
+    "Total": 1334,
+    "Failure_Rate": 23.69
+  },
+  {
+    "Year-Quarter": "2020-Q3",
+    "Facility_Type": "Grocery Store",
+    "Failures": 110,
+    "Total": 583,
+    "Failure_Rate": 18.87
+  },
+  {
+    "Year-Quarter": "2020-Q4",
+    "Facility_Type": "Bakery",
+    "Failures": 17,
+    "Total": 59,
+    "Failure_Rate": 28.81
+  },
+  {
+    "Year-Quarter": "2021-Q1",
+    "Facility_Type": "Bakery",
+    "Failures": 14,
+    "Total": 58,
+    "Failure_Rate": 24.14
+  },
+  {
+    "Year-Quarter": "2021-Q2",
+    "Facility_Type": "Bakery",
+    "Failures": 18,
+    "Total": 73,
+    "Failure_Rate": 24.66
+  },
+  {
+    "Year-Quarter": "2021-Q3",
+    "Facility_Type": "School",
+    "Failures": 60,
+    "Total": 250,
+    "Failure_Rate": 24.0
+  },
+  {
+    "Year-Quarter": "2021-Q4",
+    "Facility_Type": "School",
+    "Failures": 59,
+    "Total": 190,
+    "Failure_Rate": 31.05
+  },
+  {
+    "Year-Quarter": "2022-Q1",
+    "Facility_Type": "School",
+    "Failures": 74,
+    "Total": 304,
+    "Failure_Rate": 24.34
+  },
+  {
+    "Year-Quarter": "2022-Q2",
+    "Facility_Type": "School",
+    "Failures": 93,
+    "Total": 359,
+    "Failure_Rate": 25.91
+  },
+  {
+    "Year-Quarter": "2022-Q3",
+    "Facility_Type": "School",
+    "Failures": 91,
+    "Total": 285,
+    "Failure_Rate": 31.93
+  },
+  {
+    "Year-Quarter": "2022-Q4",
+    "Facility_Type": "School",
+    "Failures": 63,
+    "Total": 180,
+    "Failure_Rate": 35.0
+  },
+  {
+    "Year-Quarter": "2023-Q1",
+    "Facility_Type": "Daycare Above and Under 2 Years",
+    "Failures": 29,
+    "Total": 87,
+    "Failure_Rate": 33.33
+  },
+  {
+    "Year-Quarter": "2023-Q2",
+    "Facility_Type": "School",
+    "Failures": 84,
+    "Total": 276,
+    "Failure_Rate": 30.43
+  },
+  {
+    "Year-Quarter": "2023-Q3",
+    "Facility_Type": "Grocery Store",
+    "Failures": 108,
+    "Total": 441,
+    "Failure_Rate": 24.49
+  },
+  {
+    "Year-Quarter": "2023-Q4",
+    "Facility_Type": "Bakery",
+    "Failures": 14,
+    "Total": 57,
+    "Failure_Rate": 24.56
+  },
+  {
+    "Year-Quarter": "2024-Q1",
+    "Facility_Type": "School",
+    "Failures": 155,
+    "Total": 462,
+    "Failure_Rate": 33.55
+  },
+  {
+    "Year-Quarter": "2024-Q2",
+    "Facility_Type": "Daycare Above and Under 2 Years",
+    "Failures": 20,
+    "Total": 72,
+    "Failure_Rate": 27.78
+  },
+  {
+    "Year-Quarter": "2024-Q3",
+    "Facility_Type": "Daycare Above and Under 2 Years",
+    "Failures": 15,
+    "Total": 71,
+    "Failure_Rate": 21.13
+  },
+  {
+    "Year-Quarter": "2024-Q4",
+    "Facility_Type": "Bakery",
+    "Failures": 20,
+    "Total": 113,
+    "Failure_Rate": 17.7
+  },
+  {
+    "Year-Quarter": "2025-Q1",
+    "Facility_Type": "School",
+    "Failures": 116,
+    "Total": 461,
+    "Failure_Rate": 25.16
+  },
+  {
+    "Year-Quarter": "2025-Q2",
+    "Facility_Type": "School",
+    "Failures": 43,
+    "Total": 175,
+    "Failure_Rate": 24.57
+  },
+  {
+    "Year-Quarter": "2025-Q3",
+    "Facility_Type": "Grocery Store",
+    "Failures": 85,
+    "Total": 408,
+    "Failure_Rate": 20.83
+  },
+  {
+    "Year-Quarter": "2025-Q4",
+    "Facility_Type": "School",
+    "Failures": 21,
+    "Total": 67,
+    "Failure_Rate": 31.34
+  }
+]
