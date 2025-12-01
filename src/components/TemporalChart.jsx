@@ -28,7 +28,7 @@ const TemporalChart = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await fetch('/data/quarterly_failure_rates.json');
+        const response = await fetch('data/quarterly_failure_rates.json');
         const data = await response.json();
         setChartData(data);
       } catch (err) {

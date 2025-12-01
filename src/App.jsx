@@ -51,11 +51,11 @@ function App() {
 
         // Load all embedding CSV files in parallel
         const [violationsTsneResponse, violationsUmapResponse, directResponse, mlpResponse, geoResponse] = await Promise.all([
-          fetch('/data/tsne_violations_with_community.csv'),
-          fetch('/data/umap_violations_with_community.csv'),
-          fetch('/data/tsne_direct_with_community.csv'),
-          fetch('/data/tsne_mlp_with_community.csv'),
-          fetch('/data/chicago_communities.geojson'),
+          fetch('data/tsne_violations_with_community.csv'),
+          fetch('data/umap_violations_with_community.csv'),
+          fetch('data/tsne_direct_with_community.csv'),
+          fetch('data/tsne_mlp_with_community.csv'),
+          fetch('data/chicago_communities.geojson'),
         ]);
 
         const [violationsTsneText, violationsUmapText, directText, mlpText, geoJson] = await Promise.all([
