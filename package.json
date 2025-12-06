@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sajontahsen.github.io/CS424-assignment-4-dashboard/",
+  "homepage": "https://sajontahsen.github.io/chi-food-inspections-embeddings-dashboard/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
