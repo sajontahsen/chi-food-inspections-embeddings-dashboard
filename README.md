@@ -241,36 +241,7 @@ The views are linked through a shared `selectedCommunity` state:
 
 ---
 
-## 5. Encodings
-
-### Embedding Scatter Plot
-- **Position (x, y)**: t-SNE or UMAP projection coordinates
-- **Color**:
-  - Critical Violation: Green (No) / Red (Yes)
-  - Pass/Fail: Green (Pass) / Red (Fail)
-  - Results: Categorical color scale for all outcome types
-- **Opacity**: Full opacity for selected community, dimmed for others
-- **Size**: Larger on hover for highlighting
-
-### Chicago Map
-- **Color (fill)**: Sequential red scale by critical violation rate (0-30%)
-- **Stroke**: Blue highlight for selected community
-- **Opacity**: Full for selected, dimmed for others when selection active
-
-### Facility Type Chart
-- **Position (x)**: Count of failed inspections
-- **Position (y)**: Facility type (sorted by count)
-- **Color**: Consistent red (#F56565)
-
-### Temporal Chart
-- **Position (x)**: Quarter (2020-Q1 through 2025-Q4)
-- **Position (y)**: Maximum failure rate that quarter
-- **Line color**: Gray (connecting line)
-- **Point color**: Facility type with worst failure rate (tableau10 scheme)
-
----
-
-## 6. Initial Findings
+## 5. Initial Findings
 
 ### Embedding Space Patterns
 
@@ -290,7 +261,7 @@ The views are linked through a shared `selectedCommunity` state:
 
 ---
 
-## 7. Screenshots
+## 6. Screenshots
 
 ### Embedding Space - Violations Text 
 TODO: (put both umap and t-sne in a single image with captions showing which is which)
@@ -315,7 +286,7 @@ TODO: (compare as described here)
 
 ---
 
-## 8. Iteration Summary
+## 7. Iteration Summary
 
 | Iteration | Input | Change | Rationale | Effect |
 |-----------|-------|--------|-----------|--------|
