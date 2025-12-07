@@ -198,7 +198,7 @@ For the violations text embeddings, both t-SNE and UMAP produce similar clusteri
 
 ---
 
-## 4. Visualization Interface - [Link to Repo](https://github.com/sajontahsen/chi-food-inspections-embeddings-dashboard)
+## 4. Visualization Interface (this repo)
 
 ### Architecture
 Built with React + Vite using Vega-Lite for declarative visualizations.
