@@ -101,9 +101,10 @@ const EmbeddingScatter = ({ data, onPointClick, selectedCommunity, colorMode }) 
           type: 'quantitative',
           scale: { zero: false },
           axis: {
-            title: 't-SNE Dimension 1',
+            title: 'Dimension 1',
             grid: true,
             gridOpacity: 0.3,
+            labels: false,
           },
         },
         y: {
@@ -111,9 +112,10 @@ const EmbeddingScatter = ({ data, onPointClick, selectedCommunity, colorMode }) 
           type: 'quantitative',
           scale: { zero: false },
           axis: {
-            title: 't-SNE Dimension 2',
+            title: 'Dimension 2',
             grid: true,
             gridOpacity: 0.3,
+            labels: false,
           },
         },
         color: getColorEncoding,
