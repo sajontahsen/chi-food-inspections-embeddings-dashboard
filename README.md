@@ -263,26 +263,21 @@ The views are linked through a shared `selectedCommunity` state:
 
 ## 6. Screenshots
 
-### Embedding Space - Violations Text 
-TODO: (put both umap and t-sne in a single image with captions showing which is which)
-![Embedding Scatter Plot](screenshots/embedding_scatter.png)
-*The violations text embeddings show clustering by violation type. Points are colored by critical violation status (green=no, red=yes). Clicking a point selects its community area.*
-
-### Linked Views - Community Selected
-TODO: (put gif of dashboard - first, select TSNE, drag latest inspections to all - then select WEST TOWN on map)
-![Linked Views](screenshots/linked_views.png)
+### Linked Views 
+![Linked Views](./docs/screenshots/linked_views.gif)
 *When a community is selected on the map, the scatter plot highlights points from that community, and the bar chart shows failure distribution for that area.*
 
-### Facility Distribution & Temporal Patterns 
-
-TODO: (screenshot of bottom two)
-![Temporal Chart](screenshots/temporal_chart.png)
-*Peak failure rate per quarter (2020-2025). Gray line shows the maximum rate; colored points indicate which facility type was the worst performer that quarter.*
+### Embedding Space - Violations Text 
+![Embedding Scatter Plot](./docs/screenshots/embeddings.png)
+*The violations text embeddings show clustering by violation type. Points are colored by pass/fail status (green=passed, red=failed). Clicking a point selects its community area.*
 
 ### Embedding Comparison
-TODO: (compare as described here)
-![Embedding Comparison](screenshots/embedding_comparison.png)
-*Comparing different embedding approaches. Left: Feature-based shows random scatter. Right: Violations text shows meaningful clusters.*
+![Embedding Comparison](./docs/screenshots/embedding_comparison.png)
+*Comparing different embedding approaches. Left: Violations text shows meaningful clusters. Right: Feature-based shows random scatter.*
+
+### Facility Distribution & Temporal Patterns 
+![Temporal Chart](./docs/screenshots/facility-breakdown.png)
+*Facility distribution & peak failure rate per quarter (2020-2025). Gray line shows the maximum rate; colored points indicate which facility type was the worst performer that quarter.*
 
 ---
 
